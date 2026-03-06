@@ -20,3 +20,7 @@ Se queres uma ferramenta que te motive e te ajude a dar os primeiros passos, o E
 Contribuições
 
 Estamos abertos a novas ideias e contribuições. Explora o código, envia um pull request ou sugere novas funcionalidades. Juntos, podemos construir a ferramenta perfeita para vencer a procrastinação.
+
+UPDATE:
+No dia 25-02-2025 conseguimos terminar a nossa primeira versão do Eventually.
+Era para terminar mais cedo mas... procrastinamos!
